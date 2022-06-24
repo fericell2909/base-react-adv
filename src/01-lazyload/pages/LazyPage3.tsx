@@ -1,9 +1,9 @@
 import React from 'react'
 
-const LazyPage3 = () => {
+export const LazyPage3 = () => {
   return (
     <h1>LazyPage3</h1>
   )
 }
 
-export { LazyPage3 }
+export default LazyPage3;
